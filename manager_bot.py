@@ -10,7 +10,7 @@ load_dotenv()
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 CHANNEL_ID = 1223507114266198210
 
-bad_words = ["shit", "dumb", "stupid"]
+bad_words = ["shit", "dumb", "stupid", "bullshit"]
 
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 @bot.event
