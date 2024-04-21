@@ -5,7 +5,6 @@
 * **Python 3.9 or later**
 * **discord.py 2.3.0 or later**
 * **python-dotenv 1.0**
-* **Rename the file `.env.example` to `.env`**
 
 ## Step 1: Create a Discord bot
 
@@ -20,6 +19,8 @@
 6. Invite your bot to your server via OAuth2 URL Generator
 ![alt text](image-4.png)
 ![alt text](image-5.png)
+
+  Use this link to invite your bot to the server:
 ![alt text](image-3.png)
 
 ## Step 2: Run the bot on the desktop
