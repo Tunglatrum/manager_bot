@@ -5,7 +5,6 @@
 * **Python 3.9 or later**
 * **discord.py 2.3.0 or later**
 * **python-dotenv 1.0**
-* **Rename the file `.env.example` to `.env`**
 
 ## Step 1: Create a Discord bot
 
@@ -20,6 +19,8 @@
 6. Invite your bot to your server via OAuth2 URL Generator
 ![alt text](image-4.png)
 ![alt text](image-5.png)
+
+  Use this link to invite your bot to the server:
 ![alt text](image-3.png)
 
 ## Step 2: Run the bot on the desktop
@@ -40,5 +41,5 @@
 6. help          Shows this message
 7. poll          Creates a new Poll with limit of 10 vote options. Usage: !poll [option 1] [option 2] [option ...] [option 10] [Title of the poll]
 8. remind        Create a reminder for you. Usage: !remind [time] [minutes/hours] [message] 
-9. stopremind    Stop the reminder. Usage: !stopremind [message] 
+9. stopremind    Stop the reminder. Usage: !stopremind [message]
 10. verify        Open verify box to verify. Usage: !verify
