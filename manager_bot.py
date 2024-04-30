@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 import os
 import discord
-import openai
+#import openai
 import pandas as pd
 import asyncio
 from discord.ext import commands
