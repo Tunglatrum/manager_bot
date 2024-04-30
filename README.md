@@ -31,4 +31,14 @@
 3. Run `python3 manager_bot.py` or `python manager_bot.py` to run the bot
 
 ## Commands
---updating--
+
+1. help          Shows this message
+2. close_ticket  Close your ticket. Usage: !close_ticket
+3. create_ticket Creates a new ticket. Usage: !create_ticket [reason]
+4. endpoll       End your poll. Usage: !endpoll [message id of the poll]
+5. hello         Says hello to the user.
+6. help          Shows this message
+7. poll          Creates a new Poll with limit of 10 vote options. Usage: !poll [option 1] [option 2] [option ...] [option 10] [Title of the poll]
+8. remind        Create a reminder for you. Usage: !remind [time] [minutes/hours] [message] 
+9. stopremind    Stop the reminder. Usage: !stopremind [message] 
+10. verify        Open verify box to verify. Usage: !verify
